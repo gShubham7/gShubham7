@@ -23,15 +23,15 @@
 <div align='center'>
 
   ![age](https://img.shields.io/badge/age-28-blue&height="20")
-  ![living](https://img.shields.io/badge/living-Pune, India-maroon)
-  ![focus](https://img.shields.io/badge/focus-Software Development-teal)
+  ![living](https://img.shields.io/badge/living-Pune,India-maroon)
+  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 </div>
 <br/>
 
 <h3 align='center'> 🔍 Find me here </h3>
 <div align='center'>
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](www.linkedin.com/in/shubhamgaikwad7)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/shubhamgaikwad7/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://gshubham7.github.io/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/gShubham7)
 </div>
