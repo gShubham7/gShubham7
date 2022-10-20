@@ -34,6 +34,7 @@
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/shubhamgaikwad7/)
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=portfolio&logoColor=white&color=red)](https://gshubham7.github.io/)
   [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/gShubham7)
+  [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank--informational?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/gShubham_7)
 </div>
 
 <br>
