@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;&center=true&width=500&height=50">
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
