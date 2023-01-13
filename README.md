@@ -60,8 +60,8 @@
 <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;" align="center">
-    <img width="450px" height="200px" alt="Shubham's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gShubham7&theme=github_dark" />
-    <img width="300px" height="200px" alt="gShubham7's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gShubham7&theme=github_dark" />
+    <img width="450px" height="200px" alt="Shubham's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gShubham7&theme=transparent&count_private=true&show_icons=true&hide_border=true" />
+    <img width="300px" height="200px" alt="gShubham7's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gShubham7&theme=transparent&hide_border=true&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gShubham7&layout=compact&theme=gruvbox_duo"/>
 </div>
 <br/>
