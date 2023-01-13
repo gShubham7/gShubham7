@@ -76,7 +76,7 @@
 
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
-  <p align="center"<a href="#"><img alt="gShubham7 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gShubham7&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+  <p align="center"<a href="#"><img alt="gShubham7 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gShubham7&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" /></a></p>
 </div>
 
 <div>
