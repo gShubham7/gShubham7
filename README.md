@@ -1,7 +1,7 @@
 <p align="center"><img width='100%' src="./teahub.io-ai-wallpaper-658287.jpg"></p>
 
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://abhishekdewanganportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">Shubham Gaikwad</a>!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://gshubham7.github.io/" target="_blank" rel="noopener noreferrer">Shubham Gaikwad</a>!
 </h2>
 
 <p align="center">
