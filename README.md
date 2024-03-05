@@ -8,7 +8,7 @@
 
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions.</h4>
-<h4 align='center'>Currently, I am working as a React developer and learning Python<img height="20px" align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></h4>
+<h4 align='center'>Currently, I am learning Python<img height="20px" align="center" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/></h4>
 <img height="200px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
 
