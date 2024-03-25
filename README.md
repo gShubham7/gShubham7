@@ -81,12 +81,12 @@
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
   <!-- <h2 align='center'>ℹ️ &nbsp;Github Info</h2> -->
-
+<!--
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gShubham7&theme=github_dark" alt="gShubham7" align = "center"/></p>
 </div>
-
+-->
 <div>
   <!-- <p align='center'><b>📊 Github Contribution Graph</b></p><br/> -->
   <p align="center"<a href="#"><img alt="gShubham7 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gShubham7&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" /></a></p>
